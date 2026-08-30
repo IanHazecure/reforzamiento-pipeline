@@ -22,7 +22,7 @@ variables:
   # AZURE DEVOPS / SERVICE CONNECTION
   # ============================================================
   # Debe coincidir EXACTAMENTE con el nombre de la Service Connection creada en Azure DevOps.
-  azureSubscription: 'sc-reforzamiento1'
+  azureSubscription: 'sc-reforzamiento-pipeline'
 
   # ============================================================
   # REGIONES CANDIDATAS
