@@ -42,7 +42,7 @@ variables:
   # ============================================================
   # Si existe un Resource Group asignado por la asignatura, reemplazar este valor
   # por el nombre asignado y conservarlo sin modificaciones.
-  resourceGroupName: 'rg-reforzamiento1'
+  resourceGroupName: 'DEVOPS_002A_GRUPO11'
   virtualNetworkName: 'vnet-reforzamiento1'
   subnetName: 'subnet-reforzamiento1'
   addressPrefix: '10.0.0.0/16'
