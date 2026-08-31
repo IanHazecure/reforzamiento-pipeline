@@ -66,6 +66,7 @@ variables:
   # ============================================================
   # IMAGEN DE UBUNTU
   # ============================================================
+  vmAdminPassword: '%L0v3tearus80%' #solo fines academicos :(
   imagePublisher: 'Canonical'
   imageOffer: 'ubuntu-24_04-lts'
   imageSku: 'server'
